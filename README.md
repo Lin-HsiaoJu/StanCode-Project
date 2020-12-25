@@ -11,7 +11,7 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   * python semantics & syntax
 * [MyPhotoshop](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/MyPhotoshop/best_photoshop_award.py)
   * image processing
-* [Pedestrian Removing Application]()
+* [Pedestrian Removing Application](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/Pedestrian%20Removing%20Application/stanCodoshop.py)
   * image processing
 * [Breakout Game](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/Breakout%20Game/breakout.py)  
   * animation & game designing
