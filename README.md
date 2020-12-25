@@ -7,7 +7,7 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 ## Project Source Codes:
 * [Hangman Game](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/Hangman%20Game/hangman.py)
   * python semantics & syntax
-* [Weather Master]()
+* [Weather Master](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/Wheather%20Master/weather_master.py)
   * python semantics & syntax
 * [MyPhotoshop](https://github.com/Lin-HsiaoJu/StanCode-Project/blob/main/stanCode%20Project/MyPhotoshop/best_photoshop_award.py)
   * image processing
